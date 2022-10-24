@@ -1,6 +1,6 @@
 <H1>Hey There, Welcome to</H1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Yellowtail&size=80&pause=1000&color=419AF7&center=true&vCenter=true&multiline=true&width=435&height=200&lines=Atif+0x007+)](#)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Yellowtail&size=80&pause=1000&color=419AF7&center=false&vCenter=true&multiline=true&width=400&height=150&lines=Atif+0x007+)](#)
 
 <H2>Social</H2>
 
